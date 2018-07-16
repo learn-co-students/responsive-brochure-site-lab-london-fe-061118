@@ -1,0 +1,48 @@
+body, html {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  background: #00aced;
+}
+
+.homophone {
+  border: 1px solid #00aced;
+  box-shadow:  -1px 1px #00aced, -2px 2px #00aced, -3px 3px #00aced, -4px 4px #00aced, -5px 5px #00aced;
+  margin: auto;
+}
+
+.alley {
+  border: 1px solid #00aced;
+  box-shadow:  -1px 1px #00aced, -2px 2px #00aced, -3px 3px #00aced, -4px 4px #00aced, -5px 5px #00aced;
+  margin: auto;
+}
+
+.precise {
+  border: 1px solid #00aced;
+  box-shadow:  -1px 1px #00aced, -2px 2px #00aced, -3px 3px #00aced, -4px 4px #00aced, -5px 5px #00aced;
+  margin: auto;
+}
+
+.finest {
+  border: 1px solid #00aced;
+  box-shadow:  -1px 1px #00aced, -2px 2px #00aced, -3px 3px #00aced, -4px 4px #00aced, -5px 5px #00aced;
+  margin: auto;
+}
+
+.mamba {
+  border: 1px solid #00aced;
+  box-shadow:  -1px 1px #00aced, -2px 2px #00aced, -3px 3px #00aced, -4px 4px #00aced, -5px 5px #00aced;
+  margin: auto;
+}
+
+.goat {
+  border: 1px solid #00aced;
+  box-shadow:  -1px 1px #00aced, -2px 2px #00aced, -3px 3px #00aced, -4px 4px #00aced, -5px 5px #00aced;
+  margin: auto;
+}
+
+.twitter-tweet {
+  margin: auto;
+}
